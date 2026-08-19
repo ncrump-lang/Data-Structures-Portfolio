@@ -6,6 +6,6 @@ My name is Nate Crump and I am a junior at UNC Charlotte. My goals in data scien
 Welcome to my Data Science Studio portfolio.
 This website will document my learning and projects throughout the semester.
 ## Portfolio
-- [Blog](blog.md)
+- [Blog](blog.md/)
 - [Projects](projects.md)
 
