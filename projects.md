@@ -22,4 +22,4 @@ The project includes data cleaning and preparation, visualizations, and analysis
 
 Code and Notebook
 
-[View the NBA Project Notebook](./NBA-Project/NBA_Project.ipynb)
+[View the NBA Project Notebook](https://github.com/ncrump-lang/Data-Structures-Portfolio/blob/main/NBA-Project/NBA_Project.ipynb)
