@@ -12,5 +12,6 @@ Outside of academics and career goals, I enjoy playing basketball, exercising, p
 This website will document my learning and projects throughout the semester.
 ## Portfolio
 - [Blog](blog/blog.md)
+- [View My Resume](./Nate_Crump_Resume.pdf)
 - [Projects](projects.md)
 
